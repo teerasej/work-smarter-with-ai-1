@@ -11,7 +11,7 @@
 1. ลงชื่อเข้าใช้ [Microsoft 365 Copilot](https://m365copilot.com/) ด้วยบัญชีองค์กร
 2. ใช้ Copilot Chat ที่สามารถแนบไฟล์ได้
 3. หากหน้าจอมีปุ่ม **Work IQ** ให้ปิดปุ่มนี้ใน walkthrough ที่ต้องการใช้ Web-grounded chat และไฟล์ที่แนบเอง
-4. ดาวน์โหลด sample files ของ walkthrough ที่เลือกจากตารางด้านล่าง
+4. ดาวน์โหลด [ไฟล์ตัวอย่าง Part 2 ทั้งหมด](https://github.com/teerasej/work-smarter-with-ai-1/raw/main/files/part-2/part-2-sample-files.zip) หรือ sample files ของ walkthrough ที่เลือกจากตารางด้านล่าง
 
 > Sample data ทั้งหมดเป็นข้อมูลสมมติสำหรับ workshop เท่านั้น ไม่ใช่ข้อมูลจริงของ retailer, customer หรือ campaign ใด ๆ
 

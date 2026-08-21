@@ -6,7 +6,7 @@
 
 ## Prerequisites
 
-- ดาวน์โหลด [`Branch_Service_Modernization_Proposal.docx`](../../../../files/part-3/Branch_Service_Modernization_Proposal.docx)
+- ดาวน์โหลด [`Customer_Service_Modernization_Proposal.docx`](../../../../files/part-3/Customer_Service_Modernization_Proposal.docx)
 - เปิด [Microsoft 365 Copilot](https://m365copilot.com/) ด้วยบัญชีองค์กร
 
 ## Scenario 1: ผู้บริหารต้องการตรวจ project proposal
@@ -72,7 +72,7 @@
 #### Steps
 
 1. เปิด Agent ที่เพิ่งสร้าง
-2. กดปุ่ม **+** หรือ **Add work content** แล้วแนบ `Branch_Service_Modernization_Proposal.docx`
+2. กดปุ่ม **+** หรือ **Add work content** แล้วแนบ `Customer_Service_Modernization_Proposal.docx`
 3. ส่ง prompt ต่อไปนี้
 
    ```text

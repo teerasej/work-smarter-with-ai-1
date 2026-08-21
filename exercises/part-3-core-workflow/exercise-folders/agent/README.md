@@ -10,12 +10,12 @@
 
 ดาวน์โหลดไฟล์จาก [รายการไฟล์ตัวอย่าง Part 3](../../../../files/part-3/) แล้วเตรียมไฟล์ต่อไปนี้
 
-- `Branch_Service_Modernization_Proposal.docx`
+- `Customer_Service_Modernization_Proposal.docx`
 - `Vendor_Proposal_A_Northstar.docx`
 - `Vendor_Proposal_B_BluePeak.docx`
 - `Vendor_Proposal_C_Greenline.docx`
 - `Vendor_Comparison_Report_Template.docx`
-- `Krungsri_5_Banking_Products_Quick_Guide.pdf`
+- `Organization_Service_Catalog_Quick_Guide.pdf`
 
 > **💡 Tip:** ถ้า Upload ไฟล์ไม่สำเร็จ ให้เปิดไฟล์ คัดลอกเนื้อหา และวางใน Copilot Chat โดยให้ส่วนข้อมูลอ้างอิงขึ้นต้นด้วย `SOURCE: ชื่อไฟล์` เพื่อให้เรายังทำแบบฝึกหัดต่อได้
 
@@ -23,6 +23,6 @@
 
 1. [Proposal Review Coach](01-proposal-review-coach.md) — สร้าง Agent และใช้วิเคราะห์ project proposal สำหรับผู้บริหาร
 2. [Vendor Comparison Advisor](02-vendor-comparison-advisor.md) — ปรับ instruction เพิ่ม report template เป็น Knowledge และสร้างรายงานเพื่อทำหน้าที่เปรียบเทียบ vendor 3 เจ้า
-3. [Krungsri Product Information Agent](03-krungsri-product-information-agent.md) — เพิ่มเว็บไซต์และ PDF เป็น Knowledge แล้วทดสอบคำตอบที่มีและไม่มีข้อมูลรองรับ
+3. [Service Information Agent](03-service-information-agent.md) — เพิ่ม PDF เป็น Knowledge แล้วทดสอบคำตอบที่มีและไม่มีข้อมูลรองรับ
 
 [← กลับไป Day 2](../../README.md) | [เริ่ม Exercise 1: Proposal Review Coach →](01-proposal-review-coach.md)

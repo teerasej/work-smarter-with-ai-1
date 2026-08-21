@@ -10,7 +10,7 @@
 
 1. เข้าใช้งาน Outlook และ Teams ด้วยบัญชีที่เข้าถึง Copilot ได้
 2. มี email thread หรือ meeting ตัวอย่างสำหรับทดลอง
-3. [ดาวน์โหลด Teams meeting transcript ตัวอย่าง 15 นาที](../../../../files/part-3/branch-operations-review-15min.vtt) สำหรับใช้เมื่อไม่มี meeting ที่ถอดเทปไว้
+3. [ดาวน์โหลด Teams meeting transcript ตัวอย่าง 15 นาที](../../../../files/part-3/service-operations-review-15min.vtt) สำหรับใช้เมื่อไม่มี meeting ที่ถอดเทปไว้
 4. ตั้งค่า meeting ให้รองรับการบันทึก/ถอดเทปได้ (ถ้ามีนโยบายองค์กรรองรับ)
 
 ## A) Outlook: สรุปและร่างอีเมลตอบกลับ
@@ -35,21 +35,21 @@
    ![alt text](../../images/copilot/2025-08-23_22-54-27.png)
 3. กรอกหัวข้ออีเมลล์
     ```
-    ปัญหา conversion lead ลดลง ช่องทาง Mobile Banking เดือน เม.ย.
+    ปัญหา conversion ลดลงจากช่องทาง Customer Portal เดือน เม.ย.
     ```
 4. จากหน้าร่าง email กดที่ไอคอนด้านหน้า Draft with Copilot
       ![alt text](../../images/copilot/2025-08-23_22-54-35.png)
 5. เลือกคำสั่ง prompt 1 อย่างจากรายการต่อไปนี้ วางลงในกล่อง Prompt box และกดปุ่ม Generate
 
    ```
-   ทีมบริการลูกค้าแจ้ง: ลูกค้าร้องเรียนเรื่องเอกสารขอสินเชื่อไม่ครบเพิ่มขึ้น 18% จำเป็นต้องมี checklist เอกสารก่อนยื่น
+    ทีมบริการลูกค้าแจ้ง: ลูกค้าร้องเรียนเรื่องข้อมูลในแบบฟอร์มคำขอไม่ครบเพิ่มขึ้น 18% จำเป็นต้องมี checklist ก่อนส่งคำขอ
    ```
    ```
-   ทีมขายแจ้ง: lead จาก Mobile Banking เข้าระบบ 1,680 ราย แต่ conversion ลดจาก 18% เหลือ 14% ขอแผน follow-up playbook
+    ทีมขายแจ้ง: inquiry จาก Customer Portal เข้าระบบ 1,680 รายการ แต่ conversion ลดจาก 18% เหลือ 14% ขอแผน follow-up playbook
    ```
    ```
-   ทีมพิจารณาสินเชื่อแจ้ง: loan approval turnaround time เพิ่มจาก 4.2 วัน เป็น 5.1 วัน ใบสมัครค้าง  28 ราย
-   ขอแนวทาง lean review และ timeline การเร่งรัด
+    ทีมปฏิบัติการแจ้ง: case resolution turnaround time เพิ่มจาก 4.2 วัน เป็น 5.1 วัน มีคำขอบริการค้าง 28 รายการ
+    ขอแนวทาง lean review และ timeline การเร่งรัด
    ```
 6. รอ Copilot แสดงแบบร่างให้ตรวจสอบ และเราสามารถใช้กล่องด้านล่าง เพื่อปรับแต่งแบบร่างได้ เช่น "write in thai" หรือ "ใช้คำสุภาพ และนัดเจอกันช่วงมื้ออาหารกลางวัน"
       ![alt text](../../images/copilot/2025-08-23_22-55-26.png)
