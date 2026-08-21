@@ -14,12 +14,10 @@
 2. [Part 2 — Copilot Basic](exercises/part-2-copilot-basic/README.md) — Copilot Chat, Copilot Create, Prompt Gallery, Copilot Pages และ Copilot-in-Action พร้อม [ไฟล์งาน Part 2](files/part-2/) หรือ [ดาวน์โหลดไฟล์ตัวอย่าง Part 2 ทั้งหมด](https://github.com/teerasej/work-smarter-with-ai-1/raw/main/files/part-2/part-2-sample-files.zip)
 3. [Part 3 — Core workflow](exercises/part-3-core-workflow/README.md) — OneDrive, Chat/Create, Word, Excel, Outlook/Teams, PowerPoint และ Agent Builder พร้อม [ไฟล์งาน Part 3](files/part-3/) หรือ [ดาวน์โหลดไฟล์ตัวอย่าง Part 3 ทั้งหมด](https://github.com/teerasej/work-smarter-with-ai-1/raw/main/files/part-3/part-3-sample-files.zip)
 
-## กติกาไฟล์ตัวอย่าง
 
-โฟลเดอร์ [`files/`](files/) เก็บเฉพาะไฟล์ที่ผู้เรียนเปิด ใช้เป็นบริบท หรือแก้ไขระหว่างทำงาน เช่น DOCX, XLSX, PPTX, PDF และ VTT เท่านั้น ภาพ UI และภาพประกอบคำสั่งอยู่ในโฟลเดอร์ `images/` ของแบบฝึกหัดแต่ละส่วน ไม่อยู่ใน `files/`.
-
-## แหล่งที่มาและสิทธิ์
+## แหล่งที่มาและสิทธิ์การใช้งาน
 
 เนื้อหานี้เป็นสื่อการเรียนรู้ ไม่ใช่เอกสารรับประกันความพร้อมของ tenant หรือสิทธิ์การใช้งานนะครับ
 
-All rights reserved Amaround Co., Ltd. www.nextflow.in.th 
+All rights reserved Amaround Co., Ltd. 
+www.nextflow.in.th 
