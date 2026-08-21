@@ -12,7 +12,7 @@
 
 ## Scenario
 
-คุณกำลังเตรียมสรุปประเด็นจากหน้าเว็บให้ทีมผู้บริหาร ใช้หน้า [Get started writing prompts in Microsoft 365 Copilot](https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-writing-prompts-in-microsoft-365-copilot) เป็นแหล่งข้อมูลสาธารณะสำหรับการฝึก และเตรียมพื้นที่สำหรับบันทึกผลของแต่ละรอบ
+คุณกำลังเตรียมสรุปประเด็นจากข้อมูลบนหน้าเว็บหนึ่ง ให้ทีมผู้บริหารรับทราบ เพื่อนำไปใช้ในเชิงธุรกิจ ใช้หน้า [Get started writing prompts in Microsoft 365 Copilot](https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-writing-prompts-in-microsoft-365-copilot) เป็นแหล่งข้อมูลสาธารณะสำหรับการฝึก และเตรียมพื้นที่สำหรับบันทึกผลของแต่ละรอบ
 
 ใช้ [worksheet](../../files/part-1/prompt-comparison-worksheet.docx) ที่เตรียมไว้เป็น template ได้ หรือใช้เครื่องมือที่ถนัด เช่น Word, OneNote, Loop, Excel, Google Docs, Notion หรือไฟล์ข้อความธรรมดา ให้เลือกใช้แอพใดแอพหนึ่ง สำหรับเปรียบเทียบผลที่ได้จาก Practice 1-4 โดยบันทึก prompt ที่ใช้, คำตอบจาก Copilot
 
@@ -24,7 +24,22 @@
     ![alt text](2026-08-21_09-54-11.png)
 **Primary target:** บอกงานที่ต้องการให้ชัดเจน
 
-**Steps:**
+### ถ้าไม่สามารถเปิด Copilot in Edge ได้ 
+
+ถ้าไม่สามารถเปิด Copilot in Edge ได้ ให้เปิดใช้งาน Copilot Chat ใน browser แทน 
+    - office.com
+    - copilot.microsoft.com
+    - https://m365.cloud.microsoft/
+
+โดยคัดลอกข้อความคำสั่งจากแบบฝึกหัดด้านล่างไปวางในช่อง chat ก่อนส่ง prompt
+
+และใส่ URL ตัวอย่างของหน้าเว็บที่ใช้เป็นแหล่งข้อมูลใน prompt ด้วย
+
+เช่น
+ ```text
+ https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-writing-prompts-in-microsoft-365-copilot
+ ```
+### Steps:
 
 1. ใน Copilot in Edge ส่ง prompt:
 
@@ -32,7 +47,7 @@
     ช่วยสรุปเนื้อหาในหน้าเว็บนี้ให้หน่อย
     ```
 2. คัดลอกหรือบันทึกคำตอบลงแอพที่เลือกไว้ หรือใช้ templateในช่องหรือหัวข้อ Practice 1
-3. จดสิ่งที่ยังไม่ชัดเจนในคำตอบ
+3. สังเกตสิ่งที่ยังไม่ชัดเจนในคำตอบ
 
 **Checkpoint / expected output:** ได้บทสรุปแรกที่ระบุสาระของหน้าเว็บ และเห็นว่าคำว่า “สรุป” ยังเปิดกว้าง
 
@@ -44,7 +59,7 @@
 
 **Primary target:** ให้ Copilot รู้สถานการณ์และผู้รับสาร
 
-**Steps:**
+### Steps:
 
 1. ส่ง prompt:
 
@@ -63,7 +78,7 @@
 
 **Primary target:** จำกัดหลักฐานที่ Copilot ใช้ และสังเกตการอ้างอิงข้อมูล
 
-**Steps:**
+### Steps:
 
 1. ส่ง prompt:
 
@@ -85,7 +100,7 @@
 
 **Primary target:** กำหนดรูปแบบผลลัพธ์ที่นำไปใช้ต่อได้
 
-**Steps:**
+### Steps:
 
 1. ส่ง prompt เดิมจาก Practice 3 แล้วเติม:
 
